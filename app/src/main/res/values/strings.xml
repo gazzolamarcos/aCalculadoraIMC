@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">calculadoraimc</string>
+    <string name="calcular">Calcular</string>
 </resources>
