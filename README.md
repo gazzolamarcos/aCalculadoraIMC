@@ -1,5 +1,5 @@
 # Calculadora IMC
-Calculadora de IMC é um aplicativo Android nativo, que desenvolvi utilizando a linguagem de programação Kotlin, e foi o meu primeiro aplicativo que desenvolvi. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. A função do aplicativo é realizar o cálculo do IMC, utilizando os dados fornecidos pelo usuários, e mostrar o resultado na próxima tela.
+Calculadora de IMC é um aplicativo Android nativo, que desenvolvi utilizando a linguagem de programação Kotlin, e foi o meu primeiro aplicativo que desenvolvi. A função do aplicativo é realizar o cálculo do IMC, utilizando os dados fornecidos pelo usuários, e mostrar o resultado na próxima tela. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
