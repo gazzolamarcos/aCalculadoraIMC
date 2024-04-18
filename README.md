@@ -1,19 +1,36 @@
 # Calculadora IMC
-Desc
+Calculadora de IMC é um aplicativo Android nativo, que desenvolvi utilizando a linguagem de programação Kotlin, e foi o meu primeiro aplicativo que desenvolvi. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. A função do aplicativo é realizar o cálculo do IMC, utilizando os dados fornecidos pelo usuários, e mostrar o resultado na próxima tela.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/gazzolamarcos/aCalculadoraIMC/assets/166654274/c9183963-4788-4c1e-9010-abf1ac844e0b" width=260/>
+<img src="https://github.com/gazzolamarcos/aCalculadoraIMC/assets/166654274/a88c676c-0615-41e3-8d55-12547af777cd" width=260/>
+<img src="https://github.com/gazzolamarcos/aCalculadoraIMC/assets/166654274/938ac3b1-c82f-440d-b376-a1139ad585ed" width=260/>
 
 ## Tecnologias
-Techs
+* Kotlin
+* Activity para host de telas
+* ViewGroup
+    * ConstraintLayout  
+    * RelativeLayout
+    * LinearLayout
+- Components de UI
+    - TextView
+    - EditText
+    - Button
+- Snackbar para display de mensagens
+- Intent Explicita para abrir a segunda Activity
+- FindViewById para recuperar components de UI
+- String resource para concatenação de textos
 
+## Author
+Marcos Gazzola
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Marcos Gazzola
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
